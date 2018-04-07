@@ -27,18 +27,18 @@ An ai2 app for test the memory of elderly
 
 ##Female celebrity test
 
-<img src="https://github.com/htchu/mem-care/blob/master/Screenshots/screen2-1.png" width="150">
-<img src="https://github.com/htchu/mem-care/blob/master/Screenshots/screen2-2.png" width="150">
-<img src="https://github.com/htchu/mem-care/blob/master/Screenshots/screen3-3.png" width="150">
+| Asking the question  | Waiting for answer  |After answered|
+|---|---|---|
+|<img src="https://github.com/htchu/mem-care/blob/master/Screenshots/screen2-1.png" width="150">|<img src="https://github.com/htchu/mem-care/blob/master/Screenshots/screen2-2.png" width="150">|<img src="https://github.com/htchu/mem-care/blob/master/Screenshots/screen3-3.png" width="150">|
 
 ##Male song test
 
-<img src="https://github.com/htchu/mem-care/blob/master/Screenshots/screen3-1.png" width="150">
-<img src="https://github.com/htchu/mem-care/blob/master/Screenshots/screen3-2.png" width="150">
-<img src="https://github.com/htchu/mem-care/blob/master/Screenshots/screen3-3.png" width="150">
+| Asking the question  | Waiting for answer  |After answered|
+|---|---|---|
+|<img src="https://github.com/htchu/mem-care/blob/master/Screenshots/screen3-1.png" width="150">|<img src="https://github.com/htchu/mem-care/blob/master/Screenshots/screen3-2.png" width="150">|<img src="https://github.com/htchu/mem-care/blob/master/Screenshots/screen3-3.png" width="150">|
 
 ##Female song test
 
-<img src="https://github.com/htchu/mem-care/blob/master/Screenshots/screen4-1.png" width="150">
-<img src="https://github.com/htchu/mem-care/blob/master/Screenshots/screen4-2.png" width="150">
-<img src="https://github.com/htchu/mem-care/blob/master/Screenshots/screen4-3.png" width="150">
+| Asking the question  | Waiting for answer  |After answered|
+|---|---|---|
+|<img src="https://github.com/htchu/mem-care/blob/master/Screenshots/screen4-1.png" width="150">|<img src="https://github.com/htchu/mem-care/blob/master/Screenshots/screen4-2.png" width="150">|<img src="https://github.com/htchu/mem-care/blob/master/Screenshots/screen4-3.png" width="150">|
