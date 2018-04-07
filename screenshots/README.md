@@ -1,7 +1,8 @@
 # Mem-care screenshots
 An ai2 app for test the memory of elderly
-#Main screen
-![Main screen](https://github.com/htchu/mem-care/blob/master/screenshots/screen0.jpg) { width=150px }
+
+##Main screen
+<img src="https://github.com/htchu/mem-care/blob/master/screenshots/screen0.jpg" width="150">
 
 ##Male celebrity test
 ![Main screen](https://github.com/htchu/mem-care/blob/master/screenshots/screen1.jpg) { width=150px }
