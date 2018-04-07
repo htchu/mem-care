@@ -23,9 +23,7 @@ An ai2 app for test the memory of elderly
 
 | Asking the question  | Waiting for answer  |After answered|
 |---|---|---|
-|<img src="https://github.com/htchu/mem-care/blob/master/Screenshots/screen1-1.png" width="150">
-|<img src="https://github.com/htchu/mem-care/blob/master/Screenshots/screen1-2.png" width="150">
-|<img src="https://github.com/htchu/mem-care/blob/master/Screenshots/screen1-3.png" width="150">|
+|<img src="https://github.com/htchu/mem-care/blob/master/Screenshots/screen1-1.png" width="150">|<img src="https://github.com/htchu/mem-care/blob/master/Screenshots/screen1-2.png" width="150">|<img src="https://github.com/htchu/mem-care/blob/master/Screenshots/screen1-3.png" width="150">|
 
 ##Female celebrity test
 
