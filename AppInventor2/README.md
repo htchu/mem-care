@@ -11,6 +11,7 @@ An ai2 app for test the memory of elderly
 <img src="https://github.com/htchu/mem-care/blob/master/Screenshots/screen0.png" width="150">
 
 ##Step 1: Set up a testee ID 
+
 | Before  | After  |
 |---|---|
 |  <img src="https://github.com/htchu/mem-care/blob/master/Screenshots/screen0-1.png" width="150"> | <img src="https://github.com/htchu/mem-care/blob/master/Screenshots/screen0-2.png" width="150">  | 
