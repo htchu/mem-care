@@ -1,6 +1,6 @@
 # mem-care
 
-## An ai2 app for test the memory of elderly
+## An ai2 app for testing the memory of elderly
 
 <img src="https://github.com/htchu/mem-care/blob/master/Screenshots/screen0.png" width="150">
 
